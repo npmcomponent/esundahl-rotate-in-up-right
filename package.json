@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-rotate-in-up-right",
+  "description": "rotate-in-up-right animation",
+  "version": "0.0.1",
+  "keywords": [
+    "css3",
+    "animation",
+    "rotate-in-up-right"
+  ],
+  "styles": [
+    "rotate-in-up-right.css"
+  ],
+  "dependencies": {
+    "esundahl-animated": "git://github.com/npmcomponent/esundahl-animated.git"
+  },
+  "license": "MIT"
+}
